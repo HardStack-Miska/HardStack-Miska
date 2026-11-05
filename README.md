@@ -1,6 +1,5 @@
-# Mikhail Miakishev
+# Software engineer · Rust, C++ and Python
 
-**Software engineer · Rust, C++ and Python**
 
 I build asynchronous backends, exchange integrations and cross-platform applications. I enjoy problems where networking, concurrency and state correctness matter — and testing an elegant idea until I understand where it breaks.
 
